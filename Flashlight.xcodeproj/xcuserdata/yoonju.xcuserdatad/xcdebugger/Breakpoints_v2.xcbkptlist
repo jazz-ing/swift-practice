@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "186F07B7-11E3-4B0D-8BD7-D6D00A78B65D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EEC592F-FA78-418A-B275-772E18417810"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flashlight/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "0EEC592F-FA78-418A-B275-772E18417810 - 8f2e6bfc14957d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashlight.ViewController.switchButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Flashlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoonju/Documents/Flashlight/Flashlight/Flashlight/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "0EEC592F-FA78-418A-B275-772E18417810 - 61d8bd8769f327db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashlight.ViewController.switchButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Flashlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoonju/Documents/Flashlight/Flashlight/Flashlight/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "0EEC592F-FA78-418A-B275-772E18417810 - 6392147d6111d956"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashlight.ViewController.switchButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Flashlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoonju/Documents/Flashlight/Flashlight/Flashlight/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "0EEC592F-FA78-418A-B275-772E18417810 - cd10dce00cbc589f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashlight.ViewController.switchButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flashlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoonju/Documents/Flashlight/Flashlight/Flashlight/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0EEC592F-FA78-418A-B275-772E18417810 - 1afb34ddd8b9c694"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashlight.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Flashlight.ViewController"
+                  moduleName = "Flashlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoonju/Documents/Flashlight/Flashlight/Flashlight/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "0EEC592F-FA78-418A-B275-772E18417810 - 9e1503a47ca10a67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flashlight.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Flashlight.ViewController&gt;"
+                  moduleName = "Flashlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yoonju/Documents/Flashlight/Flashlight/Flashlight/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
