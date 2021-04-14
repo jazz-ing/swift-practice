@@ -13,6 +13,7 @@
 		DF5CE5982625B34300080483 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF5CE5962625B34300080483 /* Main.storyboard */; };
 		DF5CE59A2625B34400080483 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF5CE5992625B34400080483 /* Assets.xcassets */; };
 		DF5CE59D2625B34400080483 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF5CE59B2625B34400080483 /* LaunchScreen.storyboard */; };
+		DFC772752625D191006C3DAC /* switch.wav in Resources */ = {isa = PBXBuildFile; fileRef = DFC772742625D191006C3DAC /* switch.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DF5CE5992625B34400080483 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF5CE59C2625B34400080483 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF5CE59E2625B34400080483 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFC772742625D191006C3DAC /* switch.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = switch.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				DF5CE5992625B34400080483 /* Assets.xcassets */,
 				DF5CE59B2625B34400080483 /* LaunchScreen.storyboard */,
 				DF5CE59E2625B34400080483 /* Info.plist */,
+				DFC772742625D191006C3DAC /* switch.wav */,
 			);
 			path = Flashlight;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFC772752625D191006C3DAC /* switch.wav in Resources */,
 				DF5CE59D2625B34400080483 /* LaunchScreen.storyboard in Resources */,
 				DF5CE59A2625B34400080483 /* Assets.xcassets in Resources */,
 				DF5CE5982625B34300080483 /* Main.storyboard in Resources */,
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LHNXD357QL;
 				INFOPLIST_FILE = Flashlight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -305,6 +310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LHNXD357QL;
 				INFOPLIST_FILE = Flashlight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
